@@ -1,6 +1,6 @@
 # Guideline of Project Management
 
-There are multiple articles have illustruated that the project(code) management are important:
+There are multiple articles have illustruated that the project(code) management is important:
 1. [neptune.ai - how to organize deep learning projects](https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices)
 2. [深度学习科研，如何高效进行代码和实验管理？](https://www.zhihu.com/question/269707221/answer/350542551)
 
